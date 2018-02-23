@@ -34,9 +34,7 @@ Recomendaciones
 
 ```
 
-Utiliza un diccionario obtenido del siguiente repo: 
-
-[Diccionario]: https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/10_million_password_list_top_1000.txt	"Diccionario"
+Utiliza un diccionario obtenido del siguiente repo: [diccionario](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/10_million_password_list_top_1000.txt).
 
 ## What is in the box?
 
